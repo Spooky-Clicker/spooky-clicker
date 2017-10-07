@@ -4,5 +4,5 @@ let scoreElement = document.getElementById('score');
 
 cookieElement.addEventListener('click', function(){
     score++;
-    scoreElement.textContent = score + "<font color="white">Spooky Clicker</font>";
+    scoreElement.textContent <font color="white">= score + "Spooky Clicker"</font>;
 });
