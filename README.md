@@ -1,2 +1,2 @@
 # Spoopy Clicker
-This game is so far into the future that it's the best game of 2037
+This game uses javasvcript to count how many times you click on the botton in "Spoopy Points" 
